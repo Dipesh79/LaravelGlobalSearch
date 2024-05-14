@@ -30,7 +30,8 @@ return [
      */
 
     'models' => [
-        // \App\Models\User::class
+        // \App\Models\User::class,
+        // \App\Models\Post::class,
     ],
 
     /**
@@ -162,7 +163,7 @@ The Laravel Global Search package is open-sourced software licensed under the [M
 
 - [Dipesh79](https://khanaldipesh.com.np)
 - [All Contributors](../../contributors)
-- [Laravel Banner](https://laravel-banners.beyondco.de)
+- [Laravel Banner](https://banners.beyondco.de/)
 
 ## Author
 
