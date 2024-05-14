@@ -2,8 +2,6 @@
 
 # Laravel Global Search
 
-Sure! Here's a short and sweet description for the project:
-
 "**Laravel Global Search** is a flexible and customizable Laravel package that enables developers to perform global searches across multiple models with ease. With support for custom and default models, configurable search behavior, and robust error handling, it empowers developers to create powerful search functionality tailored to their application's needs. Whether searching for specific records or retrieving all data, Laravel Global Search provides a seamless experience for users and developers alike."
 
 ## Installation
